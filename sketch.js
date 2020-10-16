@@ -32,8 +32,6 @@ obstacleGroup = createGroup();
 }
 
 function draw() {
-background("white");
-
 console.log(monkey.y);
 ground.velocityX = -4;
   
